@@ -2,6 +2,7 @@ from replit import clear
 from ART import logo
 
 print(logo)
+print("Welcome to the secret auction program")
 
 bids={}
 
