@@ -40,18 +40,4 @@ Throughout this 100 Days, we cover a massive amount of tools and technologies, i
     Web Design
     Deployment with GitHub Pages, Heroku and GUnicorn
     and much much more!
-    
-Build a portfolio of 100 projects.Including:
 
-      Blackjack
-      Snake Game
-      Pong Game
-      Auto Swipe on Tinder
-      Auto Job Applications on LinkedIn
-      Automate Birthday Emails/SMS
-      Fully Fledged Blog Website
-      Build Your Own Public API
-      Data Science with Google Trends
-      Analysing Lego Datasets
-      Google App Store Analysis
-      and much much more!
